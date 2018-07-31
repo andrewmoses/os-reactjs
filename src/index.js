@@ -8,7 +8,7 @@ import fullpost from './components/fullpost.js';
 const Router = () => (
   <div>
     <p>This is to demonstrate the layout functionality of reactjs</p>
-    <h1>A heading to the application has been changed</h1>
+    <h1>Changin the heading for a change</h1>
     <BrowserRouter>
       <Switch>
         <Route exact path="/" component= {feeds} />
