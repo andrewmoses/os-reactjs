@@ -1,3 +1,4 @@
+#!/usr/bin/bash
 npm run build
 cd ..
 export LD_LIBRARY_PATH=/opt/rh/httpd24/root/usr/lib64
